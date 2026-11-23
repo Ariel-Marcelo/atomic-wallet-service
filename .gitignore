@@ -480,3 +480,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Personal study & Obsidian notes (excluded from repository)
+Notes.md
+
