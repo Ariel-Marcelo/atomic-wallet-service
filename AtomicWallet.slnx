@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AtomicWallet.Api/AtomicWallet.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AtomicWallet.Tests/AtomicWallet.Tests.csproj" />
+  </Folder>
+</Solution>
